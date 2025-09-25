@@ -43,7 +43,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ---
 
 ##   Backlog do Produto
-Veja o arquivo [📄 backlog.md](docs/backlog.md)
+Veja o arquivo [📄 backlog.md](docs/backlog.md)(README/backlog.md)
 
 ---
 
