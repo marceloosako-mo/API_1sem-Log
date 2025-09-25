@@ -1,4 +1,4 @@
-# 📌 Aprendizado por Projeto Integrado (API) - Template
+#   Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos de API, ensinando na utilização do repositório digital **GitHub**.
 
@@ -10,7 +10,7 @@ Projeto baseado na metodologia ágil **SCRUM**, desenvolvendo:
 
 ---
 
-## 📑 Índice
+##   Índice
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Equipe](#equipe)
 - [Backlog do Produto](#backlog-do-produto)
@@ -20,7 +20,7 @@ Projeto baseado na metodologia ágil **SCRUM**, desenvolvendo:
 
 ---
 
-## 🎯 Objetivo do Projeto
+##   Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 - Centralizar os trabalhos e projetos;
 - Organizar e estruturar as informações;
@@ -30,40 +30,38 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ---
 
-## 👥 Equipe
+##   Equipe
 | Função         | Nome     | LinkedIn | GitHub |
 |----------------|----------|----------|--------|
-| Product Owner  | Aluno 1  | [LinkedIn]() | [GitHub]() |
-| Scrum Master   | Aluno 2  | [LinkedIn]() | [GitHub]() |
-| Team Member    | Aluno 3  | [LinkedIn]() | [GitHub]() |
+| Product Owner  | Raquel Araújo Lima  | [LinkedIn]() | [GitHub]() |
+| Scrum Master   | Marcelo Osako | [LinkedIn]() | [GitHub]() |
+| Team Member    | Alisson Paulo de andrade  | [LinkedIn]() | [GitHub]() |
 | Team Member    | Aluno 4  | [LinkedIn]() | [GitHub]() |
-| Team Member    | Aluno 5  | [LinkedIn]() | [GitHub]() |
-| Team Member    | Aluno 6  | [LinkedIn]() | [GitHub]() |
+| Team Member    | THIAGO FERNANDES MOREIRA | [LinkedIn]() | [GitHub]() |
+| Team Member    | VINICIUS ALESSANDRO MOREIRA  | [LinkedIn]() | [GitHub]() |
 
 ---
 
-## 📋 Backlog do Produto
+##   Backlog do Produto
 Veja o arquivo [📄 backlog.md](docs/backlog.md)
 
 ---
 
-## 🏆 Competências Desenvolvidas
+##   Competências Desenvolvidas
 Veja o arquivo [📄 competencias.md](docs/competencias.md)
 
 ---
 
-## 📅 Registro das Sprints
+##   Registro das Sprints
 Veja o arquivo [📄 sprints.md](docs/sprints.md)
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##   Tecnologias Utilizadas
 - Jira Software  
 - Power BI  
 - Microsoft Excel  
-- Slack  
-- Python (Colab)  
-- MySQL  
+- Python (Colab) 
+  
 
----
-📌 *Projeto pedagógico alicerçado na Metodologia API (RPBL + CDIO + SCRUM), com resultados seguindo o Aviso Legal disponível no site da Fatec SJC.*
+
