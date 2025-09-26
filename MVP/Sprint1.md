@@ -45,6 +45,3 @@
 
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
- 
