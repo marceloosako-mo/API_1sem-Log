@@ -60,7 +60,6 @@ Veja o arquivo [sprints.md](sprints.md)
 ##   Tecnologias Utilizadas
 - Jira Software  
 - Power BI
-- Python - (Pandas)
 - Microsoft Excel  
 - Python (Colab) 
   
