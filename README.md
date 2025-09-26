@@ -43,7 +43,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ---
 
 ##   Backlog do Produto
-Veja o arquivo [backlog.md](backlog.md)
+Veja o arquivo [backlog(backlog.md)
+
 ---
 
 ##   Competências Desenvolvidas
