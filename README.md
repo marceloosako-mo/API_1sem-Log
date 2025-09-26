@@ -34,11 +34,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Função         | Nome     | LinkedIn | GitHub |
 |----------------|----------|----------|--------|
 | Product Owner  | Raquel Araújo Lima  | [LinkedIn]() | [GitHub]() |
-| Scrum Master   | Marcelo Osako | [LinkedIn]() |  [GitHub]() |
+| Scrum Master   | Marcelo R. Osako | [LinkedIn]() |  [GitHub]() |
 | Team Member    | Alisson Paulo de andrade  | [LinkedIn]() | [GitHub]() |
 | Team Member    | Aluno 4  | [LinkedIn]() | [GitHub]() |
 | Team Member    | Thiago Fernandes Moreira | [LinkedIn]() | [GitHub]() |
-| Team Member    | Vinicius Alessandro Moreira  | [LinkedIn]() | [GitHub]() |
+| Team Member    | Vinícius Alessandro Moreira  | [LinkedIn]() | [GitHub]() |
 
 ---
 
