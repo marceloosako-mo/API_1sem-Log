@@ -48,12 +48,12 @@ Veja o arquivo [backlog](backlog.md)
 ---
 
 ##   Competências Desenvolvidas
-Veja o arquivo [📄 competencias.md](competencias.md)
+Veja o arquivo [competencias.md](competencias.md)
 
 ---
 
 ##   Registro das Sprints
-Veja o arquivo [📄 sprints.md](sprints.md)
+Veja o arquivo [sprints.md](sprints.md)
 
 ---
 
