@@ -1,4 +1,4 @@
-# 🏆 Competências Desenvolvidas
+#   Competências Desenvolvidas
 
 - Trabalho em equipe
 - Autonomia e proatividade
