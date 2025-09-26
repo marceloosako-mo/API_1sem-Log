@@ -43,17 +43,17 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ---
 
 ##   Backlog do Produto
-Veja o arquivo [backlog(backlog.md)
+Veja o arquivo [backlog](backlog.md)
 
 ---
 
 ##   Competências Desenvolvidas
-Veja o arquivo [📄 competencias.md](docs/competencias.md)
+Veja o arquivo [📄 competencias.md](competencias.md)
 
 ---
 
 ##   Registro das Sprints
-Veja o arquivo [📄 sprints.md](docs/sprints.md)
+Veja o arquivo [📄 sprints.md](sprints.md)
 
 ---
 
