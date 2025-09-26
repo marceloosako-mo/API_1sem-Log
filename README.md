@@ -37,8 +37,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Scrum Master   | Marcelo Osako | [LinkedIn]() |  [GitHub]() |
 | Team Member    | Alisson Paulo de andrade  | [LinkedIn]() | [GitHub]() |
 | Team Member    | Aluno 4  | [LinkedIn]() | [GitHub]() |
-| Team Member    | THIAGO FERNANDES MOREIRA | [LinkedIn]() | [GitHub]() |
-| Team Member    | VINICIUS ALESSANDRO MOREIRA  | [LinkedIn]() | [GitHub]() |
+| Team Member    | Thiago Fernandes Moreira | [LinkedIn]() | [GitHub]() |
+| Team Member    | Vinicius Alessandro Moreira  | [LinkedIn]() | [GitHub]() |
 
 ---
 
