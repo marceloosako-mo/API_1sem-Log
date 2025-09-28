@@ -29,8 +29,9 @@
 ##   Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status       |
 |--------|----------------------------------------------|--------------|
-| 01     | Evolução histórica da balança comercial      | Concluído    |
-| 02     | Filtro SH4 + município                       | Em andamento|
+| 01     | Fundamentos                                  | Concluído    |
+| 02     | Filtros + comparações                        | Em andamento |
+| 03     | Estratégia, sazonalidade, riscos e projeções | Em andamento |
 
 ---
 
