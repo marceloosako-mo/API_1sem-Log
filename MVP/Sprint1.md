@@ -1,4 +1,4 @@
-#   MVP - API Logística 1Sem
+#   MVP - API  1 Semestre Logística
 
 ##   Objetivo do MVP
 
