@@ -6,27 +6,29 @@
 ---
 
 ##   Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
--   
--    
-
+- Filtros por data, município, produto, país
+- Filtro SH4 + município
+- Comparar desempenho entre municípios 
+- Identificar países emergentes  
+ 
 ---
 
-## 🔑 User Stories (Backlog do MVP)
+##   User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
-| US3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
-| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
+| US5 | Como analista/gestor, quero aplicar filtros por município, tipo de produto e país de destino/origem, para realizar análises específicas.         | Média      | |
+| US6 | Como analista/gestor, quero filtrar os resultados por código SH4 e município, para cruzar as informações de produto e localidade.         | Média      | |
+| US7 | Como analista/gestor, quero comparar o desempenho comercial de municípios entre si, para identificar quais estão se destacando ou ficando para trás.         | Média      | |
+| US8 | Como analista/gestor, quero identificar países com crescimento nas importações/exportações com os municípios paulistas, para identificar mercados emergentes.         | Média      | |
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+##   Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status       |
 |--------|----------------------------------------------|--------------|
-| 01     | [Funcionalidade X, Y]                        | Concluído    |
-| 02     | [Funcionalidade Z]                           | Concluído    |
+| 01     | Fundamentos                                  | Concluído    |
+| 02     | Filtros + comparações                        | Concluído    |
+| 03     | Estratégia, sazonalidade, riscos e projeções | Andamento    |
 
 ---
 
