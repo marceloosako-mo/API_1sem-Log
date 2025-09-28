@@ -1,10 +1,9 @@
-#   Aprendizado por Projeto Integrado (API) 
+#   Aprendizado por Projeto Integrado (API) 1 Semestre Logística
 
-Projeto baseado na metodologia ágil **SCRUM**, desenvolvendo:
-- Proatividade
-- Autonomia
-- Colaboração
-- Entrega de Resultados
+##   Projeto
+
+Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP
+
 
 ---
 
@@ -19,12 +18,11 @@ Projeto baseado na metodologia ágil **SCRUM**, desenvolvendo:
 ---
 
 ##   Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-- Centralizar os trabalhos e projetos;
-- Organizar e estruturar as informações;
-- Versionar e controlar as alterações;
-- Facilitar o compartilhamento e feedback;
-- Desenvolver habilidades técnicas.
+
+O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho
+dos Estados Brasileiros e de municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do
+Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
+
 
 ---
 
