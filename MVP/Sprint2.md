@@ -5,27 +5,20 @@
 
 ---
 
-## 📝 Descrição da Solução
+##   Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
-
----
-
-## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+-   
+-    
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | User Story                                                                 | Prioridade | |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| US3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
+| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
+| US3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
+| US4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | |
 
 ---
 
@@ -33,32 +26,18 @@
 | Sprint | Entregas Principais                          | Status       |
 |--------|----------------------------------------------|--------------|
 | 01     | [Funcionalidade X, Y]                        | Concluído    |
-| 02     | [Funcionalidade Z]                           | Em andamento|
+| 02     | [Funcionalidade Z]                           | Concluído    |
 
 ---
 
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
----
-
-## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+##   Métricas de Validação
 - Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
-## 🚀 Próximos Passos
+##   Próximos Passos
 - Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+- Ajustes de usabilidade
+  
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
