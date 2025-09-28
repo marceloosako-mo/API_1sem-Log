@@ -33,7 +33,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |----------------|----------|----------|--------|
 | Product Owner  | Raquel Araújo Lima  | [LinkedIn]() | [GitHub]() |
 | Scrum Master   | Marcelo R. Osako | [LinkedIn]() |  [GitHub]() |
-| Team Member    | Alisson Paulo de andrade  | [LinkedIn]() | [GitHub]() |
+| Team Member    | Alisson Paulo de andrade  | [LinkedIn]() | [GitHub](https://github.com/alisson051013) |
 | Team Member    | Caio César Santos Galioti Silva  | [LinkedIn]() | [GitHub]() |
 | Team Member    | Thiago Fernandes Moreira | [LinkedIn]() | [GitHub]() |
 | Team Member    | Vinícius Alessandro Moreira  | [LinkedIn]() | [GitHub]() |
