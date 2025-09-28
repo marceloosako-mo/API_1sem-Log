@@ -3,8 +3,7 @@
 ##   Objetivo do MVP
 
 - Criar uma plataforma de BI para visualizar o desempenho de Estados e municípios paulistas no comércio exterior a partir de dados do MDIC.
-- Criar acesso simplificado a informações confiáveis para análise de tendências e apoio à formulação de políticas públicas e estratégias de negócios.
-  
+
 ---
 
 ##   Descrição da Solução
