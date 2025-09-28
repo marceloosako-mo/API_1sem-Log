@@ -1,8 +1,8 @@
 #   Competências Desenvolvidas
 
-- Trabalho em equipe
-- Autonomia e proatividade
-- Gestão de tempo
-- Uso de ferramentas digitais (GitHub, Jira, Power BI, Excel, Python)
-- Mentalidade ágil
-- Resolução de problemas reais (RPBL)
+- Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.)
+- Processo de desenvolvimento ágil
+- Caracterização do produto logístico
+- Lógica de programação básica
+- Lógica matemática
+- Persistência de dados em BD relacional
