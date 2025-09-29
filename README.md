@@ -54,7 +54,7 @@ Veja o arquivo [sprints.md](sprints.md)
 ---
 
 ##   Tecnologias Utilizadas
-- Jira Software [Jira](https://fatec-g4-log.atlassian.net/)  
+- [Jira Software](https://fatec-g4-log.atlassian.net/)  
 - Power BI
 - Microsoft Excel  
 - Python (Colab) 
