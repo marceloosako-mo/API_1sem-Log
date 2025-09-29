@@ -44,4 +44,4 @@
 - Ajustes de usabilidade  
 
 ---
-
+<img width="1897" height="877" alt="Image" src="https://github.com/user-attachments/assets/699dcaf5-ecdb-46d4-9384-73eb066f4627" />
