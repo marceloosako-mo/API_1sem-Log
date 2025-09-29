@@ -55,7 +55,7 @@ Veja o arquivo [sprints.md](sprints.md)
 
 ##   Tecnologias Utilizadas
 - [Jira Software](https://fatec-g4-log.atlassian.net/)  
-- Power BI
+- [Power BI](C:\Users\marce\OneDrive\Área de Trabalho\API 1sem.pbix)
 - Microsoft Excel  
 - Python (Colab) 
   
