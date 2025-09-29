@@ -49,5 +49,6 @@
 - Prints de tela
 
 <img width="1905" height="867" alt="Image" src="https://github.com/user-attachments/assets/8f4188e6-776c-4851-b36f-566aceb57fff" />
-![Image](https://github.com/user-attachments/assets/1ec4aa77-7e85-4564-a208-666745f6c07b)
+
+
 <img width="1897" height="877" alt="Image" src="https://github.com/user-attachments/assets/699dcaf5-ecdb-46d4-9384-73eb066f4627" />
