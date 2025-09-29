@@ -27,7 +27,7 @@
 |--------|----------------------------------------------|--------------|
 | 01     | Fundamentos                                  | Concluído    |
 | 02     | Filtros + comparações                        | Em andamento |
-| 03     | Estratégia, sazonalidade, riscos e projeções | Em andamento |
+| 03     | Estratégia, sazonalidade, riscos e projeções | ideia |
 
 ---
 
