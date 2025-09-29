@@ -20,7 +20,7 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como analista/gestor da plataforma, quero visualizar os principais produtos exportados/importados por um município paulista, para entender sua relevância no comércio exterior.         | Alta       |    |
 | US2 |  Como analista/gestor, quero ver um ranking dos municípios por valor de exportação/importação, para identificar os líderes e os que estão em ascensão ou declínio.        | Alta      |   |
-| US3 | Como analista/gestor, quero ver a evolução histórica da balança comercial de cada município de SP, para analisar tendências ao longo do tempo.   | Alta       |   |
+| US3 | Como analista/gestor, quero ver a evolução histórica da balança comercial dos municípios de SP, para analisar tendências ao longo do tempo.   | Alta       |   |
 | US4 | Como analista/gestor, quero visualizar gráficos interativos com a evolução da balança comercial entre 2023 e 2025, para tomar decisões baseadas em dados.         | Alta      |   |
 
 ---
