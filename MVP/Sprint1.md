@@ -46,5 +46,6 @@
 ---
 
 ##   Anexos / Evidências
-- Prints de tela  
+- Prints de tela
+![Image](https://github.com/user-attachments/assets/1ec4aa77-7e85-4564-a208-666745f6c07b)
 <img width="1897" height="877" alt="Image" src="https://github.com/user-attachments/assets/699dcaf5-ecdb-46d4-9384-73eb066f4627" />
