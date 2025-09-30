@@ -28,7 +28,7 @@
 ##   Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status       |
 |--------|----------------------------------------------|--------------|
-| 01     | Fundamentos                                  | Concluído    |
+| 01     | Fundamentos                                  | Em andamento |
 | 02     | Filtros + comparações                        | ideia |
 | 03     | Estratégia, sazonalidade, riscos e projeções | ideia |
 
