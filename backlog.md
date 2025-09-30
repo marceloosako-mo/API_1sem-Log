@@ -11,7 +11,7 @@
 | 7    | Média      | Como analista/gestor, quero comparar o desempenho comercial de municípios entre si, para identificar quais estão se destacando ou ficando para trás. | 7  | 2 |
 | 8    | Média      | Como analista/gestor, quero identificar países com crescimento nas importações/exportações com os municípios paulistas, para identificar mercados emergentes. | 8  | 2 |
 | 9    | Média      | Como analista/gestor, quero entender os padrões sazonais de exportação/importação por tipo de produto, para planejar melhor minha produção. | 12 | 2 |
-| 10    | Baixa      | US09: Como analista/gestor, quero analisar o impacto de políticas tarifárias ou acordos comerciais, para entender os efeitos no comércio local. | 9  | 3 |
+| 10    | Baixa      | Como analista/gestor, quero analisar o impacto de políticas tarifárias ou acordos comerciais, para entender os efeitos no comércio local. | 9  | 3 |
 | 11   | Baixa      | Como analista/gestor, quero visualizar as principais vias de transporte utilizadas para exportação/importação, para avaliar a eficiência logística. | 10 | 3 |
 | 12   | Baixa      | Como analista/gestor, quero entender como a logística impacta os custos e a competitividade dos municípios no mercado internacional. | 11 | 3 |
 | 13   | Baixa      | Como analista/gestor, quero visualizar a sazonalidade nos gráficos, para identificar picos e quedas ao longo do ano. | 13 | 3 |
