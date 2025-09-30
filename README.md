@@ -31,7 +31,7 @@ Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
 |----------------|----------|----------|--------|
 | Product Owner  | Raquel Araújo Lima  | [GitHub]() | |
 | Scrum Master   | Marcelo R. Osako | [GitHub](marceloosako-mo) | |
-| Team Member    | Alisson Paulo de andrade  | [GitHub](https://github.com/alisson051013) |  |
+| Team Member    | Alisson Paulo de Andrade  | [GitHub](https://github.com/alisson051013) |  |
 | Team Member    | Caio César Santos Galioti Silva  | [GitHub]() |  |
 | Team Member    | Thiago Fernandes Moreira | [GitHub]() |  |
 | Team Member    | Vinícius Alessandro Moreira  | [GitHub]()|  |
