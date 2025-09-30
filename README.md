@@ -44,7 +44,7 @@ Veja o arquivo [backlog.md](backlog.md)
 ---
 
 ##   Competências Desenvolvidas
-Veja o arquivo [competências.md](competências.md)
+Veja o arquivo [competências.md](competencias.md)
 
 ---
 
