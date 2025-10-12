@@ -18,7 +18,7 @@
 ##   User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US12| Como analista/gestor, quero entender os padrões sazonais de exportação/importação por tipo de produto, para planejar melhor minha produção.| Baixa    | |
+| US12| Como analista/gestor, quero entender os padrões sazonais de exportação/importação por tipo de produto, para planejar melhor minha produção.| Média    | |
 | US9 | Como analista/gestor, quero analisar o impacto de políticas tarifárias ou acordos comerciais, para entender os efeitos no comércio local. | Baixa     | |
 | US10| Como analista/gestor, quero visualizar as principais vias de transporte utilizadas para exportação/importação, para avaliar a eficiência logística.|Baixa||
 | US11 | Como analista/gestor, quero entender como a logística impacta os custos e a competitividade dos municípios no mercado internacional.     | Baixa     | |
