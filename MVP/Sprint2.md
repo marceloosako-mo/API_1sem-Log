@@ -37,8 +37,14 @@
 ---
 
 ##   Próximos Passos
-- Melhorias planejadas após feedback  
+- Melhorias planejadas após feedback
 - Ajustes de usabilidade
   
 ---
 
+## 📂 Anexos / Evidências
+- Prints de tela  
+- Fluxos ou protótipos  
+- Vídeo (MVP)  
+
+---
