@@ -62,7 +62,7 @@
 <img width="1897" height="877" alt="Image" src="https://github.com/user-attachments/assets/699dcaf5-ecdb-46d4-9384-73eb066f4627" />
 <img width="1902" height="987" alt="Image" src="https://github.com/user-attachments/assets/b05e516d-b0ae-48e2-9a85-7fc4b16e0c9a" />
 
-- Videos
+- Video MVP
 
 https://github.com/user-attachments/assets/bac356f1-5d8b-4085-ab82-4b77bac18081
 
