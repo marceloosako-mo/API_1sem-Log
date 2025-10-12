@@ -36,15 +36,20 @@
 
 ##   Métricas de Validação
 - Feedback qualitativo (positivo/negativo)
-  Unir as tarefas da equipe. 
+
+  Unir as tarefas da equipe.
+  
+  Analisar com o grupo as tarefas executadas.
 
 ---
 
 ##   Próximos Passos
 - Melhorias planejadas após feedback
+
   Inclusão de videos do processo Powerbi 
 - Ajustes de usabilidade
-  Melhoria no gráfico US3
+
+   Melhoria no gráfico US3 Evolução histórica da balança comercial
 
 ---
 
