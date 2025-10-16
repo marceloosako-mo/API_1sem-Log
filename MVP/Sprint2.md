@@ -48,6 +48,12 @@
 - Vídeo (MVP)  
 
 
+US06
+
+https://github.com/user-attachments/assets/71493398-d1f5-42e3-81d0-a4e2d9e95fa8
+
+US07
+
 https://github.com/user-attachments/assets/2b64ac3d-08cb-4ef1-88e3-753412c46fbf
 
 
