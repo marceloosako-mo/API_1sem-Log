@@ -5,7 +5,7 @@
 ---
 
 ##   Descrição da Solução
-- Filtros por data, município, produto, país
+- Filtros por ano, município, produto, país
 - Filtro SH4 + município
 - Comparar desempenho entre municípios 
 - Identificar países emergentes  
