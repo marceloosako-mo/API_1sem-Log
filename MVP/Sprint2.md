@@ -51,6 +51,9 @@
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
 
+US05
+
+https://github.com/user-attachments/assets/f499afd4-d9e2-4636-be2f-08c260e347e0
 
 US06
 
@@ -60,5 +63,6 @@ US07
 
 https://github.com/user-attachments/assets/2b64ac3d-08cb-4ef1-88e3-753412c46fbf
 
+US08
 
 ---
