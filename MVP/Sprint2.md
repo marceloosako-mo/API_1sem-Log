@@ -34,11 +34,22 @@
 ##   Métricas de Validação
 - Feedback qualitativo (positivo/negativo)  
 
+Analisar e interpretar as informações.
+
+Melhorar layout indice.
+
+Melhorar US08.
+
 ---
 
 ##   Próximos Passos
 - Melhorias planejadas após feedback
+  
+  Melhorar layout indice.
+  
 - Ajustes de usabilidade
+  
+  Melhorar US08.
   
 ---
 
