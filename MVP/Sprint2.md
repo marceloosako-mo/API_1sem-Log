@@ -53,7 +53,7 @@ Melhorar US08.
   
 ---
 
-## 📂 Anexos / Evidências
+##  Anexos / Evidências
 - Prints de tela
 
 <img width="1910" height="878" alt="Captura de tela 2025-10-21 155542" src="https://github.com/user-attachments/assets/c99f76c0-d15e-4b02-aab2-8d57508cf7bb" />
