@@ -47,3 +47,8 @@
 - Ajustes de usabilidade  
 
 ---
+
+## 📂 Anexos / Evidências
+- Prints de tela
+- 
+
