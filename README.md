@@ -14,6 +14,7 @@ Acompanhamento dos Resultados de Exportação e Importação com Foco no Compara
 - [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Relatório API](#Relatório_API)
 
 ---
 
@@ -59,5 +60,8 @@ Veja o arquivo [sprints.md](sprints.md)
 - Microsoft Excel  
 - Python (Colab) 
   
+---
 
+##   Relatório API
 
+---
