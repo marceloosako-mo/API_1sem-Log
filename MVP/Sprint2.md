@@ -26,8 +26,9 @@
 | Sprint | Entregas Principais                          | Status       |
 |--------|----------------------------------------------|--------------|
 | 01     | Fundamentos                                  | Concluído    |
-| 02     | Filtros + comparações                        | Concluído |
+| 02     | Filtros + comparações                        | Concluído    |
 | 03     | Estratégia, sazonalidade, riscos e projeções | Em andamento |
+| 04     | Feira de Soluções                            | ideia        |
 
 ---
 
