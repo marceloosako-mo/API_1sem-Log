@@ -22,10 +22,8 @@ Acompanhamento dos Resultados de Exportação e Importação com Foco no Compara
 
 ##   Objetivo do Projeto
 
-O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho
-dos Estados Brasileiros e de municípios do Estado de São Paulo no comércio exterior, com base nos dados abertos do
-Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
-
+O objetivo deste projeto é desenvolver uma plataforma de Business Intelligence para analisar o comércio exterior brasileiro,
+com ênfase nos municípios paulistas, utilizando dados oficiais do ComexStat para apoiar decisões estratégicas.
 
 ---
 
