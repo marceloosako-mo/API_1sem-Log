@@ -13,6 +13,7 @@ Acompanhamento dos Resultados de Exportação e Importação com Foco no Compara
 - [Backlog do Produto](#backlog-do-produto)
 - [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
+- [Relatório Power BI](#relatório-power-bi)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Relatório API](#relatório-api)
 
@@ -52,6 +53,12 @@ Veja o arquivo [competências.md](competencias.md)
 
 ##   Registro das Sprints
 Veja o arquivo [sprints.md](sprints.md)
+
+---
+
+##   Relatório Power BI
+[Acesse o relatório no Power BI](https://app.powerbi.com/view?r=xxxxxx)
+
 
 ---
 
