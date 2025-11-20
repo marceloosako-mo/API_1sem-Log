@@ -1,4 +1,7 @@
-#   Aprendizado por Projeto Integrado (API) 1 Semestre Logística
+#   Aprendizado por Projeto Integrado (API) 
+##  Grupo G4 1 Semestre Logística
+
+---
 
 ##   Projeto
 
@@ -13,7 +16,7 @@ Acompanhamento dos Resultados de Exportação e Importação com Foco no Compara
 - [Backlog do Produto](#backlog-do-produto)
 - [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
-- [Relatório Power BI](#relatório-power-bi)
+- [Dashboard Power BI](#dashboard-power-bi)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Relatório API](#relatório-api)
 
@@ -54,8 +57,8 @@ Veja o arquivo [sprints.md](sprints.md)
 
 ---
 
-##   Relatório Power BI
-[Acesse o relatório no Power BI](https://app.powerbi.com/view?r=xxxxxx)
+##   Dashboard Power BI
+[Dashboard Power BI](https://app.powerbi.com/view?r=xxxxxx)
 
 
 ---
