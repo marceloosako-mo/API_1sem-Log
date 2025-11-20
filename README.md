@@ -14,8 +14,9 @@ Acompanhamento dos Resultados de Exportação e Importação com Foco no Compara
 - [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Relatório API](#Relatório_API)
+- [Relatório API](#relatório-api)
 
+ 
 ---
 
 ##   Objetivo do Projeto
@@ -63,5 +64,8 @@ Veja o arquivo [sprints.md](sprints.md)
 ---
 
 ##   Relatório API
+[MVP](MVP/anexo-8-relatorio-final-G4-log-API.docx)
+
+[Relatório](MVP/anexo-8-relatorio-final-G4-log-API.docx)
 
 ---
