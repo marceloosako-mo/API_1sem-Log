@@ -64,8 +64,7 @@ Veja o arquivo [sprints.md](sprints.md)
 ---
 
 ##   Relatório API
-[MVP](MVP/anexo-8-relatorio-final-G4-log-API.docx)
+[Download](MVP/anexo-8-relatorio-final-G4-log-API.docx)
 
-[Relatório](MVP/anexo-8-relatorio-final-G4-log-API.docx)
 
 ---
