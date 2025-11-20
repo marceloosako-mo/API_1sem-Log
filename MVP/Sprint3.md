@@ -1,6 +1,6 @@
-#   MVP - API 1 Semestre Logística
+#   MVP - API Grupo G4 Logística
 ##   Objetivo do MVP
-- Criar uma plataforma de BI para visualizar o desempenho de Estados e municípios paulistas no comércio exterior a partir de dados do MDIC.
+- Criar uma dashboard de BI para visualizar o desempenho de Estados e municípios paulistas no comércio exterior a partir de dados do MDIC.
 
 ---
 
@@ -31,8 +31,8 @@
 |--------|----------------------------------------------|--------------|
 | 01     | Fundamentos                                  | Concluído    |
 | 02     | Filtros + comparações                        | Concluído    |
-| 03     | Estratégia, Logística e Transporte           | Em andamento |
-
+| 03     | Estratégia, Logística e Transporte           | Concluído    |
+| 04     | Feira de Soluções                            | Em andamento |
 ---
 
 ##   Métricas de Validação
