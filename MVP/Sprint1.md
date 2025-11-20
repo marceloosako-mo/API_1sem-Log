@@ -31,6 +31,7 @@
 | 01     | Fundamentos                                  | Em andamento |
 | 02     | Filtros + comparações                        | ideia |
 | 03     | Estratégia, sazonalidade, riscos e projeções | ideia |
+| 04     | Feira de Soluções                            | ideia |
 
 ---
 
