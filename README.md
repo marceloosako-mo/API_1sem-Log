@@ -58,7 +58,7 @@ Veja o arquivo [sprints.md](sprints.md)
 ---
 
 ##   Dashboard Power BI
-[Dashboard Power BI](https://app.powerbi.com/view?r=xxxxxx)
+[Dashboard Power BI]([https://app.powerbi.com/view?r=xxxxxx](https://app.powerbi.com/view?r=eyJrIjoiYWI1M2I2NzYtMWYwOC00YTJiLTg5ZDAtMzFlNGU0NTVlNjliIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9))
 
 
 ---
