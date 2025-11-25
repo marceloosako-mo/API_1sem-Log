@@ -47,7 +47,9 @@
 ##   Próximos Passos
 - Melhorias planejadas após feedback
 
-  Inclusão de videos do processo Powerbi 
+  Inclusão de videos do processo Powerbi
+  
+  Analisar com o grupo as próximas tarefas.
 - Ajustes de usabilidade
 
    Melhoria no gráfico US3 Evolução histórica da balança comercial
