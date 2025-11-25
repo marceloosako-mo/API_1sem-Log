@@ -5,7 +5,7 @@
 
 ##   Projeto
 
-Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de SP
+Acompanhamento dos Resultados de Exportação e Importação com Foco no Comparativo entre Estados da Federação e de Municípios no Estado de São Paulo.
 
 
 ---
