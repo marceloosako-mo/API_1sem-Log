@@ -37,16 +37,18 @@
 
 Analisar e interpretar as informações.
 
-Melhorar layout indice.
+Melhorar o layout do indice.
 
-Melhorar US08.
+Melhorar a US08.
 
 ---
 
 ##   Próximos Passos
 - Melhorias planejadas após feedback
   
-  Melhorar layout indice.
+Reorganizar o layout do indice.
+
+Analise das informações.
   
 - Ajustes de usabilidade
   
