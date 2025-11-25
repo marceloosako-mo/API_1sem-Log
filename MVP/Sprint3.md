@@ -51,6 +51,10 @@
 
 <img width="1355" height="559" alt="JiraSp31" src="https://github.com/user-attachments/assets/10eb67df-bbbc-4786-a5af-beb2a333bf3f" />
 
+<img width="668" height="688" alt="jira final1" src="https://github.com/user-attachments/assets/9321f06b-042a-4e6d-bfa4-9bd8c5a21bd5" />
+
+<img width="1905" height="865" alt="jira final2" src="https://github.com/user-attachments/assets/5d8b2dcc-51fe-4a6e-85db-8dff563b9d00" />
+
 
 - Vídeo (MVP) 
 
