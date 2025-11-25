@@ -54,3 +54,14 @@
 
 - Vídeo (MVP) 
 
+https://github.com/user-attachments/assets/045f14a6-742a-49d2-9143-f3579c5ad4e0
+
+https://github.com/user-attachments/assets/fea6b525-5787-4c4d-bd7d-2331b702eaee
+
+https://github.com/user-attachments/assets/fc3a1208-e030-4809-a5ab-00fe314c6013
+
+https://github.com/user-attachments/assets/fb321350-30d2-4f9e-b17f-5aee8fc3a74a
+
+https://github.com/user-attachments/assets/94c6560f-aa45-48d3-a67c-3bbd4b8a8054
+
+---
