@@ -1,5 +1,5 @@
 #   Aprendizado por Projeto Integrado (API) 
-##  Grupo G4 1 Semestre Logística
+##  Grupo G4 Logística - 1 Semestre
 
 ---
 
